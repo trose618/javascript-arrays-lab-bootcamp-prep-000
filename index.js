@@ -1,5 +1,5 @@
 // Add your functions and code here
-destructivelyAppendKitten(array,name){
+function destructivelyAppendKitten(array,name){
   array.push(name)
   return array
 }
